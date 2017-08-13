@@ -44,7 +44,7 @@ def loadImage(link):
     # 取出每个图片的连接
     for link in link_list:
         print link
-        #writeImage(link)
+        writeImage(link)
 
 
 def writeImage(link):
